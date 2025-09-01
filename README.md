@@ -38,7 +38,8 @@
 
 ## 📊 GitHub Stats  
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishek-mehta-dev&show_icons=true&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-mehta-dev&theme=radical)](https://streak-stats.demolab.com)
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mehta-dev&layout=compact&theme=radical)  
 
 ---
