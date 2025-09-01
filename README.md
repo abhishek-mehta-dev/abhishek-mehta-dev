@@ -32,6 +32,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-mehta-0724ab256/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://abhishek-mehta-dev.vercel.app/)  
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mehtaabhishek.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:mehtaabhishek.dev@gmail.com)
+ 
 
 ---
