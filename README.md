@@ -40,7 +40,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=abhishek-mehta-dev&theme=radical)](https://streak-stats.demolab.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mehta-dev&layout=compact&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mehta-dev&layout=compact&theme=radical&langs_count=10) 
 
 ---
 
