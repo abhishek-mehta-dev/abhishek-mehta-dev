@@ -18,13 +18,13 @@
 **Languages & Frameworks**  
 - **Python** → Django, DRF, FastAPI, LangChain  
 - **JavaScript / TypeScript** → Node.js, Express, React.js, Next.js  
-- **Go** → currently exploring  
+- **Go** → Gin,currently exploring  
 
 **Databases**  
 - MongoDB • PostgreSQL • MySQL  
 
 **DevOps & Tools**  
-- Bash • Git • Docker • GitHub Actions • Cloud Deployment  
+- Linux • Bash • Git • Docker • GitHub Actions • Cloud Deployment  
 
 ---
 ##  Featured Projects
