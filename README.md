@@ -17,7 +17,7 @@
 
 **Languages & Frameworks**  
 - **Python** → Django, DRF, FastAPI, LangChain  
-- **JavaScript / TypeScript** → Node.js, Express, React.js, Next.js  
+- **JavaScript / TypeScript** → Node.js, Nest.js, Express, React.js, Next.js  
 - **Go** → Gin,currently exploring  
 
 **Databases**  
