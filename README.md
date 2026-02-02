@@ -1,30 +1,45 @@
 # Hi there 👋, I'm Abhishek Mehta  
 
-**🚀 Backend-Focused Full-Stack Developer | MERN • Python • Go (Exploring) • DevOps • AI**
+**Backend-Focused Full-Stack Engineer | Distributed Systems • AI Workflows • DevOps**
+
+I build **production-grade backend systems and full-stack applications** with a strong focus on **scalability, reliability, and real-world delivery**.  
+My work spans **API design, authentication, payments, DevOps automation, and AI-powered systems**.
 
 ---
 
-## 👨‍💻 About Me  
-- 💻 Passionate about building **scalable and efficient web applications**  
-- 🛠 Skilled in **MERN Stack (MongoDB, Express, React, Node.js)** and **Python (Django, DRF, FastAPI)**  
-- ⚙️ Comfortable with **server management, DevOps workflows, GitHub Actions & Bash scripting**  
-- 🧠 Exploring **Go, Machine Learning, and AI-driven development**  
-- 🌱 Lifelong learner who enjoys tackling complex **backend challenges**  
+## 🚀 What I Do
+
+- Design and build **scalable backend architectures**
+- Develop **secure, maintainable APIs** used in real products
+- Implement **AI workflows & agent-based systems** (RAG, orchestration, tool-calling)
+- Handle **DevOps, containerization, CI/CD, and Linux servers**
+- Think in terms of **systems, not just features**
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-**Languages & Frameworks**  
+### Languages & Frameworks
 - **Python** → Django, DRF, FastAPI, LangChain  
-- **JavaScript / TypeScript** → Node.js, Nest.js, Express, React.js, Next.js  
-- **Go** → Gin,currently exploring  
+- **JavaScript / TypeScript** → Node.js, Express, NestJS, React, Next.js  
+- **Go** → Gin *(actively building services)*  
 
-**Databases**  
+### Databases
 - MongoDB • PostgreSQL • MySQL  
 
-**DevOps & Tools**  
-- Linux • Bash • Git • Docker • GitHub Actions • Cloud Deployment  
+### DevOps & Infrastructure
+- Linux • Bash • Git  
+- Docker • GitHub Actions  
+- NGINX • Cloud deployments  
+
+---
+
+## 🤖 AI & Automation (Production-Oriented)
+
+- Retrieval-Augmented Generation (RAG) systems
+- AI-driven document intelligence & chat platforms
+- Agent-based workflows with tools & memory
+- Backend-first AI integration (scalable & secure)
 
 ---
 ##  Featured Projects
@@ -42,6 +57,15 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mehta-dev&layout=compact&theme=radical&langs_count=10) 
+
+---
+
+## 🎯 Engineering Philosophy
+
+- Production > demos  
+- Systems > scripts  
+- Reliability > shortcuts  
+- Learning by **building real things**
 
 ---
 
