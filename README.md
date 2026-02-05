@@ -1,9 +1,17 @@
 <div align="center">
 
-# 🚀 Abhishek Mehta
+# 🚀 Abhishek Mehta  
 **Backend-Focused Full-Stack Engineer | Distributed Systems • AI Workflows • DevOps**
 
-[Portfolio](https://abhishek-mehta-dev.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/abhishek-mehta-0724ab256/) • [Email](mailto:mehtaabhishek.dev@gmail.com) • [Docker](https://hub.docker.com/u/abhishekmehtadev/)
+<!-- Tech Logos -->
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,go,django,fastapi,react,nextjs,docker,nginx,linux,postgres,mongodb&perline=7" />
+
+<br /><br />
+
+[Portfolio](https://abhishek-mehta-dev.vercel.app/) • 
+[LinkedIn](https://www.linkedin.com/in/abhishek-mehta-0724ab256/) • 
+[Email](mailto:mehtaabhishek.dev@gmail.com) • 
+[Docker](https://hub.docker.com/u/abhishekmehtadev/)
 
 ---
 
@@ -70,19 +78,19 @@ A flexible Next.js full-stack app leveraging TypeScript for scalability.
 ### 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/abhishek-mehta-0724ab256/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Mehta LinkedIn" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:mehtaabhishek.dev@gmail.com">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Abhishek Mehta Gmail" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://hub.docker.com/u/abhishekmehtadev/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/docker.svg" alt="Abhishek Mehta Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" width="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://abhishek-mehta-dev.vercel.app/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Abhishek Mehta Portfolio" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" width="40" />
 </a>
 
 <br />
