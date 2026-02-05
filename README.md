@@ -45,9 +45,6 @@ Personal portfolio site built with Next.js, TypeScript, and Tailwind CSS.
 ### [Next-FullStack-App](https://github.com/abhishek-mehta-dev/Next-FullStack-App)
 A flexible Next.js full-stack app leveraging TypeScript for scalability.
 
-### [stripe_connect](https://github.com/abhishek-mehta-dev/stripe_connect)
-Next.js integration demonstrating Stripe Connect for managing multi-account payments.
-
 ---
 
 ## 📊 Performance & Stats
@@ -71,7 +68,24 @@ Next.js integration demonstrating Stripe Connect for managing multi-account paym
 <div align="center">
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-mehta-0724ab256/)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://abhishek-mehta-dev.vercel.app/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtaabhishek.dev@gmail.com) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/abhishekmehtadev/)
 
-<sub>Built with 💻 by Abhishek Mehta</sub>
+<a href="https://www.linkedin.com/in/abhishek-mehta-0724ab256/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Abhishek Mehta LinkedIn" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:mehtaabhishek.dev@gmail.com">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Abhishek Mehta Gmail" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://hub.docker.com/u/abhishekmehtadev/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/docker.svg" alt="Abhishek Mehta Docker" width="40" height="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://abhishek-mehta-dev.vercel.app/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Abhishek Mehta Portfolio" width="40" height="40" />
+</a>
+
+<br />
+
+<sub>Built with 💻 by **Abhishek Mehta**</sub>
 </div>
