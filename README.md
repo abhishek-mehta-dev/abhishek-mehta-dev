@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Abhishek Mehta  
+ # Hi there 👋, I'm Abhishek Mehta
 **Backend-Focused Full-Stack Engineer | Distributed Systems • AI Workflows • DevOps**
 
 <!-- Tech Logos -->
