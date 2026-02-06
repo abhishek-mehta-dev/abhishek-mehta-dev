@@ -1,17 +1,32 @@
 <div align="center">
 
- # Hi there 👋, I'm Abhishek Mehta
+# Hi there 👋, I'm Abhishek Mehta
 **Backend-Focused Full-Stack Engineer | Distributed Systems • AI Workflows • DevOps**
 
 <!-- Tech Logos -->
-<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,go,django,fastapi,react,nextjs,docker,nginx,linux,postgres,mongodb&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,go,django,fastapi,nestjs,langchain,react,nextjs,docker,nginx,linux,postgres,mongodb&perline=8" />
+
 
 <br /><br />
 
-[Portfolio](https://abhishek-mehta-dev.vercel.app/) • 
-[LinkedIn](https://www.linkedin.com/in/abhishek-mehta-0724ab256/) • 
-[Email](mailto:mehtaabhishek.dev@gmail.com) • 
-[Docker](https://hub.docker.com/u/abhishekmehtadev/)
+<div align="center">
+  <a href="https://abhishek-mehta-dev.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abhishek-mehta-0724ab256/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mehtaabhishek.dev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hub.docker.com/u/abhishekmehtadev/">
+    <img src="https://skillicons.dev/icons?i=docker" width="40" />
+  </a>
+</div>
+
 
 ---
 
@@ -55,16 +70,27 @@ A flexible Next.js full-stack app leveraging TypeScript for scalability.
 
 ---
 
-## 📊 Performance & Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishek-mehta-dev&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-mehta-dev&layout=compact&theme=radical&langs_count=10" alt="Top Langs" />
-</div>
+
+## 📊 GitHub Presence
+
+![Profile Views](https://komarev.com/ghpvc/?username=abhishek-mehta-dev&style=flat&color=blue)
+![Followers](https://img.shields.io/github/followers/abhishek-mehta-dev?label=Followers&style=flat&logo=github)
+![Stars](https://img.shields.io/github/stars/abhishek-mehta-dev?affiliations=OWNER&style=flat&logo=github)
+
+
+
+
+
+
+
+
 
 ---
-
+<!--
+## 📊 Performance & Stats
+---
+-->
 ## 🎯 Engineering Philosophy
 * **Production > demos**
 * **Systems > scripts**
