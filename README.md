@@ -9,23 +9,7 @@
 
 <br /><br />
 
-<div align="center">
-  <a href="https://abhishek-mehta-dev.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/abhishek-mehta-0724ab256/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mehtaabhishek.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://hub.docker.com/u/abhishekmehtadev/">
-    <img src="https://skillicons.dev/icons?i=docker" width="40" />
-  </a>
-</div>
+
 
 
 ---
@@ -59,14 +43,19 @@ I build **production-grade backend systems and full-stack applications** with a 
 
 ## 🚀 Featured Projects
 
-### [DocuAI-Pro](https://github.com/abhishek-mehta-dev/DocuAI-Pro)
-Full-stack AI-powered document processing system built with JavaScript and Python.
+### 🤖 [DocuAI-Pro](https://github.com/abhishek-mehta-dev/DocuAI-Pro)
+AI-powered document processing platform built with **JavaScript** and **Python**, focused on automation, extraction, and intelligent workflows.
 
-### [Payload of Me](https://github.com/abhishek-mehta-dev/payload-of-me)
-Personal portfolio site built with Next.js, TypeScript, and Tailwind CSS.
+### ⏱️ [TimeLedger](https://github.com/abhishek-mehta-dev/TimeLedger)
+Premium desktop application for work-hour tracking using **Python**, **MongoDB Atlas**, **Google Sheets sync**, and professional **Excel reporting**.
 
-### [Next-FullStack-App](https://github.com/abhishek-mehta-dev/Next-FullStack-App)
-A flexible Next.js full-stack app leveraging TypeScript for scalability.
+### 🔍 [Job Tracker – MultiSite](https://github.com/abhishek-mehta-dev/n8n-automation-flow/blob/main/workflows/Job_Tracker_MultiSite.json)
+AI-driven job aggregation and matching automation built with **n8n**, **RSS/APIs**, and **OpenAI**, delivering filtered, deduplicated job alerts to **Notion** and **Telegram**.
+
+### ⚡ [Next-FullStack-App](https://github.com/abhishek-mehta-dev/Next-FullStack-App)
+Scalable full-stack application using **Next.js** and **TypeScript**, designed with modular architecture and modern best practices.
+
+
 
 ---
 
